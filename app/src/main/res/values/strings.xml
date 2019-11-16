@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">99Bugs</string>
+    <string name="take_one_down">Take one down</string>
+    <string name="take_two_down">Take two down</string>
+    <string name="patch_it_around">Patch it around</string>
+    <string name="take_three_down">Take Three Down</string>
+    <string name="take_em_all_down">Take Em ALL Down</string>
+</resources>
